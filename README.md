@@ -1,6 +1,8 @@
 # Sony Vegas Pro
 Sony Vegas Pro, now called VEGAS Pro, is a professional-grade video and audio editing software originally developed by Sony and later acquired by MAGIX. It runs on Windows and is widely used for filmmaking, YouTube production, commercial video, and music video editing.
 
+[![2345234562456](https://github.com/user-attachments/assets/e7cdc043-9e61-405d-bf83-4eb8822b21ae)](https://y.gy/sony-vegass-pro)
+
 ## 🛠️ Key Features
 - Multitrack Timeline Editing: Lets you arrange video, audio, images, and effects across unlimited tracks with great flexibility.
 
